@@ -52,7 +52,8 @@
             {
               title: "The Totality in a Twig",
               subtitle: "Why nothing is 'too small' to matter",
-              available: false
+              available: true,
+              url: "/articles/the-totality-in-a-twig"
             },
             {
               title: "The 'Isness' That Is Always Here",
@@ -187,7 +188,8 @@
             {
               title: "Totaliteten i en kvist",
               subtitle: "Varför ingenting är 'för litet' för att betyda något",
-              available: false
+              available: true,
+              url: "/articles/the-totality-in-a-twig"
             },
             {
               title: "'Isigheten' som alltid är här",
