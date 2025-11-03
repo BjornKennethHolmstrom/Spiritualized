@@ -1,0 +1,130 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+/* Configure dark mode variant */
+@variant dark (&:where(.dark, .dark *));
+
+/* Custom theme configuration for Spiritualized.org
+  - primary: Terracotta / Rose-Clay (Heart)
+  - secondary: Pale Hazy Gold (Spirit)
+  - neutral: Warm Cream / Parchment (Home)
+*/
+@theme {
+  --color-primary-50: #fefaf9;
+  --color-primary-100: #fcf2f1;
+  --color-primary-200: #f8e6e3;
+  --color-primary-300: #f2d3ce;
+  --color-primary-400: #e8b6af;
+  --color-primary-500: #c06c62;
+  --color-primary-600: #a95a51;
+  --color-primary-700: #8f4a43;
+  --color-primary-800: #774039;
+  --color-primary-900: #643832;
+
+  --color-secondary-50: #fbf9f6;
+  --color-secondary-100: #f7f2ea;
+  --color-secondary-200: #f0e6d6;
+  --color-secondary-300: #e8d8bd;
+  --color-secondary-400: #ddc69f;
+  --color-secondary-500: #d4b78a;
+  --color-secondary-600: #be9f6f;
+  --color-secondary-700: #9e835c;
+  --color-secondary-800: #836b4c;
+  --color-secondary-900: #6d5941;
+
+  --color-neutral-50: #fcfcfb;
+  --color-neutral-100: #f9f8f6;
+  --color-neutral-200: #f5f3ed;
+  --color-neutral-300: #f0ece2;
+  --color-neutral-400: #e6dfd1;
+  --color-neutral-500: #d9cfba;
+  --color-neutral-600: #c0b49f;
+  --color-neutral-700: #a39785;
+  --color-neutral-800: #8a7f6f;
+  --color-neutral-900: #746b5e;
+}
+
+/* Dark mode custom styling */
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+  
+  .dark {
+    color-scheme: dark;
+  }
+}
+
+/* Custom prose styles for "Hearth" (light) and "Sacred Void" (dark) themes */
+@layer components {
+  .prose-custom {
+    @apply prose prose-lg;
+
+    /* -- Light "Hearth" Theme -- */
+    --tw-prose-body: theme(colors.neutral.800);
+    --tw-prose-headings: theme(colors.primary.700);
+    --tw-prose-lead: theme(colors.neutral.600);
+    --tw-prose-links: theme(colors.primary.600);
+    --tw-prose-bold: theme(colors.primary.800);
+    --tw-prose-counters: theme(colors.neutral.500);
+    --tw-prose-bullets: theme(colors.primary.300);
+    --tw-prose-hr: theme(colors.neutral.200);
+    --tw-prose-quotes: theme(colors.neutral.700);
+    --tw-prose-quote-borders: theme(colors.primary.200);
+    --tw-prose-captions: theme(colors.neutral.500);
+    --tw-prose-code: theme(colors.primary.800);
+    --tw-prose-pre-code: theme(colors.primary.800);
+    --tw-prose-pre-bg: theme(colors.neutral.100);
+    --tw-prose-th-borders: theme(colors.neutral.300);
+    --tw-prose-td-borders: theme(colors.neutral.200);
+  }
+  
+  /* Specific prose enhancements for better readability */
+  .prose-custom h2 {
+    @apply font-light mt-12 mb-6;
+  }
+  
+  .prose-custom h3 {
+    @apply font-normal mt-8 mb-4;
+  }
+  
+  .prose-custom p {
+    @apply leading-relaxed mb-6;
+  }
+  
+  .prose-custom li {
+    @apply my-2;
+  }
+  
+  .prose-custom blockquote {
+    @apply font-light my-8;
+  }
+  
+  .prose-custom hr {
+    @apply my-12;
+  }
+  
+  /* -- Dark "Sacred Void" Theme -- */
+  .dark .prose-custom {
+    @apply prose-invert;
+
+    /* Fine-tune overrides for the glowing "Sacred Void" feel */
+    --tw-prose-body: theme(colors.neutral.200);
+    --tw-prose-headings: theme(colors.primary.300);
+    --tw-prose-lead: theme(colors.neutral.400);
+    --tw-prose-links: theme(colors.secondary.400);
+    --tw-prose-bold: theme(colors.secondary.200);
+    --tw-prose-counters: theme(colors.neutral.400);
+    --tw-prose-bullets: theme(colors.primary.400);
+    --tw-prose-hr: theme(colors.neutral.800);
+    --tw-prose-quotes: theme(colors.neutral.300);
+    --tw-prose-quote-borders: theme(colors.primary.700);
+    --tw-prose-captions: theme(colors.neutral.500);
+    --tw-prose-code: theme(colors.secondary.200);
+    --tw-prose-pre-code: theme(colors.secondary.200);
+    --tw-prose-pre-bg: rgb(15 23 42);
+    --tw-prose-th-borders: theme(colors.neutral.700);
+    --tw-prose-td-borders: theme(colors.neutral.800);
+  }
+}
