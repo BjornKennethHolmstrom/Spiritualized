@@ -97,7 +97,7 @@
           "What emerged from that darkness was a vision: that the healing of the world begins with giving people permission to be human. That an Adaptive Universal Basic Income isn't just economics—it's a spiritual imperative. That building sites like this one, even from a place of ongoing struggle, is sacred work.",
           "This site is offered with the understanding that we're all figuring this out together. The person writing these words is not 'healed' or 'enlightened'—just someone trying to create something meaningful while navigating the same overwhelming world we all share."
         ],
-        linkText: "Visit personal website/blog"
+        linkText: "Visit my website"
       }
     },
     sv: {
@@ -190,7 +190,7 @@
           "Det som växte fram ur mörkret var en vision: att världens helande börjar med att ge människor tillåtelse att vara mänskliga. Att en adaptiv universell basinkomst inte bara är ekonomi—det är ett andligt imperativ. Att bygga sajter som denna, även från en plats av pågående kamp, är heligt arbete.",
           "Denna sajt erbjuds med förståelsen att vi alla försöker lista ut detta tillsammans. Personen som skriver dessa ord är inte 'helad' eller 'upplyst'—bara någon som försöker skapa något meningsfullt samtidigt som hen navigerar samma överväldigande värld som vi alla delar."
         ],
-        linkText: "Besök personlig webbplats/blogg"
+        linkText: "Besök min webbplats"
       }
     }
   };

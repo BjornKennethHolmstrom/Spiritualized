@@ -78,7 +78,8 @@
             {
               title: "Zero-Energy Noticing",
               subtitle: "For when you're too tired to 'do' anything",
-              available: false
+              available: true,
+              url: "/articles/zero-energy-noticing"
             },
             {
               title: "Common Loops the Mind Creates",
@@ -214,7 +215,8 @@
             {
               title: "Noll-energi uppmärksamhet",
               subtitle: "För när du är för trött för att 'göra' något",
-              available: false
+              available: true,
+              url: "/articles/zero-energy-noticing"
             },
             {
               title: "Vanliga loopar sinnet skapar",
