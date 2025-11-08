@@ -347,7 +347,7 @@
         {/each}
         <div class="mt-8">
           <a
-            href="https://bjornkennethholmstrom.wordpress.com/"
+            href="https://bjornkennethholmstrom.org/"
             target="_blank"
             rel="noopener"
             class="inline-block px-8 py-3 bg-primary-600 hover:bg-primary-700 dark:bg-primary-700 dark:hover:bg-primary-600 text-neutral-50 rounded-lg transition-colors font-medium"
