@@ -8,7 +8,7 @@ category: "Sätt att uppmärksamma"
 keywords: "nollenergi, uppmärksamma, närvaro, depression, utbrändhet, oförmåga, varande, vila, meditation"
 ---
 
-Det här är inte en "instruktionsguide". Det är en inbjudan att uppmärksamma det du redan gör.
+Det här är inte en "instruktionsguide". Detta är inte en övning att bemästra. Det är en inbjudan att uppmärksamma det du redan gör.
 
 Så mycket av andlighet presenteras som *arbete*. En "övning" att utföra. Ett tillstånd att "uppnå". Ett jag att "läka". Vi får en ny, andlig att-göra-lista: meditera, vara tacksam, skriva dagbok, yoga, läka ditt trauma.
 
@@ -22,6 +22,8 @@ Tänk om detta tillstånd av total "oförmåga" inte är ett misslyckande? Tänk
 
 ### "Övningen" att ligga på golvet
 
+Just nu kanske du läser detta från sängen. Kanske har du varit där i flera dagar. Kanske tänker du "Jag klarar inte ens det här." Bra. Det är precis där det här börjar.
+
 Det här är något jag gör själv. Jag lägger mig på sängen eller, ännu hellre, på golvet. Jag bara... stannar upp.
 
 Detta är "Nollenergi-observerande". Det har bara en "regel": **Du kan inte misslyckas med detta.**
@@ -32,11 +34,11 @@ Det handlar inte om att "försöka" vara närvarande. Det handlar om att *uppmä
 
 Här är några varsamma inbjudningar. De är inte steg. Du måste inte göra dem. De är bara saker att lägga märke till.
 
-1.  **Uppmärksamma marken.** Om du ligger på golvet eller i en säng, uppmärksamma känslan av det. Lägg märke till det enkla, solida faktum att det håller dig uppe. Du behöver inte hålla uppe dig själv. Gravitationen gör allt arbete. Du har tillåtelse att vara så här tung. Du har tillåtelse att vara så här stilla.
+1.  **Uppmärksamma marken.** Om du ligger på golvet eller i en säng, uppmärksamma känslan av det. Lägg märke till det enkla, solida faktum att det håller dig uppe. Du behöver inte hålla uppe dig själv. Gravitationen gör allt arbete. Du har tillåtelse att vara så här tung. Du har tillåtelse att vara så här stilla. Golvet dömer inte hur länge du har varit här.
 
-2.  **Uppmärksamma rummet.** Låt dina sinnen vara ett mjukt, öppet fält. Du behöver inte *leta* efter saker. Låt bara ljuset i rummet hitta dina ögon. Du behöver inte *lyssna* efter ljud. Låt bara brummandet från kylskåpet eller ljudet av en bil utanför passera genom din medvetenhet. De är inte distraktioner. De är bara "varat" i ögonblicket.
+2.  **Uppmärksamma rummet.** Låt dina sinnen vara ett mjukt, öppet fält. Du behöver inte *leta* efter saker. Låt bara ljuset i rummet hitta dina ögon. Du behöver inte *lyssna* efter ljud. Låt bara brummandet från kylskåpet eller ljudet av en bil utanför passera genom din medvetenhet. De är inte distraktioner. De är bara "varat" i ögonblicket. Du behöver inte hitta någon mening i det du lägger märke till. Trafikljudet är inte en andlig metafor. Det är bara ett ljud.
 
-3.  **Uppmärksamma andningen (utan att 'öva').** "Gör" ingen andningsövning. Försök inte att förändra den. Lägg bara märke till, för en sekund, att kroppen andas av sig själv. Den har gjort det hela ditt liv. Det kräver ingen ansträngning från "dig".
+3.  **Uppmärksamma andningen (utan att 'öva').** "Gör" ingen andningsövning. Försök inte att förändra den. Lägg bara märke till, för en sekund, att kroppen andas av sig själv. Den har gjort det hela ditt liv. Det kräver ingen ansträngning från "dig". Även detta kan kännas för mycket. Det är okej. Andningen kommer att fortsätta oavsett om du märker det eller inte.
 
 ### När sinnet tystnar av sig självt
 
@@ -54,4 +56,4 @@ Din utmattning är dörröppningen. Din "oförmåga" är inbjudan.
 
 När du ligger på golvet, för trött för att röra dig, misslyckas du inte med andligheten. Du kanske, för första gången, helt enkelt tillåter den att vara. Du "gör" inte andlighet. Du *är* andligt "varande".
 
-Och det är alltid, alltid tillräckligt.
+Och det är alltid, alltid tillräckligt. Du behöver inte resa dig upp. Du behöver inte vara annorlunda. Du är precis där du behöver vara.
