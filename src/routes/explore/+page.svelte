@@ -104,7 +104,8 @@
             {
               title: "If 'Being' is Enough, Why Does the World Hurt?",
               subtitle: "Eco-anxiety and grief as connection",
-              available: false
+              available: true,
+              url: '/articles/if-being-is-enough-why-does-the-world-hurt'
             },
             {
               title: "Sacred Service",
@@ -241,7 +242,8 @@
             {
               title: "Om 'varande' är nog, varför gör världen ont?",
               subtitle: "Eko-ångest och sorg som koppling",
-              available: false
+              available: true,
+              url: '/articles/if-being-is-enough-why-does-the-world-hurt'
             },
             {
               title: "Helig tjänst",
