@@ -130,7 +130,8 @@
             {
               title: "The Spiritual Imperative of AUBI",
               subtitle: "Why basic income is about being, not just economics",
-              available: false
+              available: true,
+              url: '/articles/the-spiritual-imperative-of-aubi'
             },
             {
               title: "'Being is Enough'",
@@ -268,7 +269,8 @@
             {
               title: "Det andliga imperativet av AUBI",
               subtitle: "Varför basinkomst handlar om varande, inte bara ekonomi",
-              available: false
+              available: true,
+              url: '/articles/the-spiritual-imperative-of-aubi'
             },
             {
               title: "'Varande är nog'",
