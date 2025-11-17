@@ -32,7 +32,8 @@
             {
               title: "You're Not Broken (You're Just Here)",
               subtitle: "De-pathologizing sensitivity and overwhelm",
-              available: false
+              available: true,
+              url: "/articles/youre-not-broken"
             },
             {
               title: "The Spirituality of 'Doing Nothing'",
@@ -171,7 +172,8 @@
             {
               title: "Du är inte trasig (du är bara här)",
               subtitle: "Att avpatologisera känslighet och överväldigande",
-              available: false
+              available: true,
+              url: "/articles/youre-not-broken"
             },
             {
               title: "Andligheten i att 'göra ingenting'",
