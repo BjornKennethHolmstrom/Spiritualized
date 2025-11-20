@@ -86,7 +86,8 @@
             {
               title: "Common Loops the Mind Creates",
               subtitle: "Working with (not against) mental patterns",
-              available: false
+              available: true,
+              url: "/articles/common-loops-the-mind-creates"
             },
             {
               title: "This Isn't Work, It's Noticing",
@@ -227,7 +228,8 @@
             {
               title: "Vanliga loopar sinnet skapar",
               subtitle: "Att arbeta med (inte mot) mentala mönster",
-              available: false
+              available: true,
+              url: "/articles/common-loops-the-mind-creates"
             },
             {
               title: "Detta är inte arbete, det är uppmärksamhet",
