@@ -59,7 +59,8 @@
             {
               title: "The 'Isness' That Is Always Here",
               subtitle: "What we mean by 'being'",
-              available: false
+              available: true,
+              url: "/articles/the-isness-that-is-always-here"
             },
             {
               title: "'Being' vs. 'Thinking'",
@@ -199,7 +200,8 @@
             {
               title: "'Isigheten' som alltid är här",
               subtitle: "Vad vi menar med 'varande'",
-              available: false
+              available: true,
+              url: "/articles/the-isness-that-is-always-here"
             },
             {
               title: "'Varande' vs. 'tänkande'",
