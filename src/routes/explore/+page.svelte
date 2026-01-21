@@ -113,7 +113,8 @@
             {
               title: "Sacred Service",
               subtitle: "Action that arises from being, not obligation",
-              available: false
+              available: true,
+              url: 'articles/sacred-service'
             },
             {
               title: "Healing Isn't a Goal",
@@ -139,7 +140,8 @@
             {
               title: "'Being is Enough'",
               subtitle: "Worth beyond productivity",
-              available: false
+              available: true,
+              url: '/articles/being-is-enough'
             },
             {
               title: "Community as Shared Being",
@@ -255,7 +257,8 @@
             {
               title: "Helig tjänst",
               subtitle: "Handling som uppstår från varande, inte skyldighet",
-              available: false
+              available: true,
+              url: 'articles/sacred-service'
             },
             {
               title: "Helande är inte ett mål",
@@ -281,7 +284,8 @@
             {
               title: "'Varande är nog'",
               subtitle: "Värde bortom produktivitet",
-              available: false
+              available: true,
+              url: '/articles/being-is-enough'
             },
             {
               title: "Gemenskap som delat varande",
