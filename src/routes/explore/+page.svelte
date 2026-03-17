@@ -114,7 +114,7 @@
               title: "Sacred Service",
               subtitle: "Action that arises from being, not obligation",
               available: true,
-              url: 'articles/sacred-service'
+              url: '/articles/sacred-service'
             },
             {
               title: "Healing Isn't a Goal",
@@ -258,7 +258,7 @@
               title: "Helig tjänst",
               subtitle: "Handling som uppstår från varande, inte skyldighet",
               available: true,
-              url: 'articles/sacred-service'
+              url: '/articles/sacred-service'
             },
             {
               title: "Helande är inte ett mål",
