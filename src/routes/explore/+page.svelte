@@ -38,7 +38,7 @@
             {
               title: "The Spirituality of 'Doing Nothing'",
               subtitle: "Why rest and 'unproductive' states are sacred",
-              available: false
+              available: "/articles/the-spirituality-of-doing-nothing"
             }
           ]
         },
@@ -182,7 +182,7 @@
             {
               title: "Andligheten i att 'göra ingenting'",
               subtitle: "Varför vila och 'improduktiva' tillstånd är heliga",
-              available: false
+              available: "articles/the-spirituality-of-doing-nothing"
             }
           ]
         },
